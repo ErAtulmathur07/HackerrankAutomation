@@ -1,0 +1,17 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "main": "1_hackerrankautmation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "puppeteer": "^19.8.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
